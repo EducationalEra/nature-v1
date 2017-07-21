@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Космос (36 годин)
+# Космос (36 годин (4 год на тиждень))
 
 <table>
 

@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Клітина (26 годин)
+# Клітина (26 годин (4 год на тиждень))
 
 <table>
 

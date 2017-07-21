@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Хвилі (30 годин)
+# Хвилі (30 годин (4 год на тиждень))
 
 <table>
 

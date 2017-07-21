@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Суміші та розчини (20 годин)
+# Суміші та розчини (20 годин (4 год на тиждень))
 
 <table>
 

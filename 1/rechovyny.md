@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Речовини (32 годин)
+# Речовини (32 годин (4 год на тиждень))
 
 <table>
 

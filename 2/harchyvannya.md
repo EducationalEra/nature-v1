@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Харчування (30 годин)
+# Харчування (30 годин (4 год на тиждень))
 
 <table>
 

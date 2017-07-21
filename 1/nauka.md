@@ -1,6 +1,6 @@
 <div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
 
-# Наука – ключ до майбутнього (6 годин)
+# Наука – ключ до майбутнього (6 годин (4 год на тиждень))
 
 <table>
 
